@@ -1,0 +1,11 @@
+git init
+.git rejtett mappa
+
+code .
+
+új fájl: proba.txt
+U
+
+git add proba.txt
+A
+
