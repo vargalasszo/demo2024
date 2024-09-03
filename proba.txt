@@ -20,9 +20,21 @@ gitlab, github
 git log
 
 ?git remote set -url origin https://...
-git remote add origin https://...
+
+github-on új repository
+git remote add origin https://github.com/vargalasszo/demo2024.git
+git branch -M main
+git push -u origin main
 
 git remote -v
+
+parancssorból:
+mentem a fájlt
+git add proba.txt
+git commit -m "parancssorból, a tavoli tarhelyre"
+git push -u origin
+
+
 
 
 
