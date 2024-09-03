@@ -32,7 +32,12 @@ parancssorból:
 mentem a fájlt
 git add proba.txt
 git commit -m "parancssorból, a tavoli tarhelyre"
-git push -u origin
+git push -u origin main 
+
+vscode-ból
+source control +
+beírom: új commit a vscode-ból
+commit majd push vagy commit&push
 
 
 
