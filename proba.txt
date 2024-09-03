@@ -17,8 +17,12 @@ commit elkövetni
 git status
 gitlab, github
 
+git log
+
 ?git remote set -url origin https://...
 git remote add origin https://...
 
 git remote -v
+
+
 
