@@ -4,8 +4,21 @@ git init
 code .
 
 új fájl: proba.txt
-U
+U untracked
 
 git add proba.txt
-A
+A added
+
+M modified
+
+git commit -m "kezdő állapot, egy fájl"
+commit elkövetni
+
+git status
+gitlab, github
+
+?git remote set -url origin https://...
+git remote add origin https://...
+
+git remote -v
 
