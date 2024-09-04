@@ -39,6 +39,10 @@ source control +
 beírom: új commit a vscode-ból
 commit majd push vagy commit&push
 
+git config user.name
+git config user.email
+
+
 
 
 
