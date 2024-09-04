@@ -47,7 +47,14 @@ a commitokat tölti le
 git reset --hard [commit azonosító]
 git reset --soft [commit azonosító]
 
+git clone https....git
+git diff 92158a5413eff2e87941adb5a88d73b2af4d30ab a6e447f33262e2f9f6a162ec8312108d312d944b
+ régebbi újabb
 
+ketten írtak ugyanabba a sorba
+conflict
+megjelent a proba.txt-ben mindkettőjüknek az egy-egy beírt új sora és <<< ==== és egyéb megjegyzések
+átírta a fájlt, hogy mindkettejük beírt sora bennmaradt, majd add commit push
 
 
 
