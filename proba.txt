@@ -42,6 +42,10 @@ commit majd push vagy commit&push
 git config user.name
 git config user.email
 
+git pull
+a commitokat tölti le
+git reset --hard [commit azonosító]
+git reset --soft [commit azonosító]
 
 
 
